@@ -1,0 +1,14 @@
+[project]
+name = "product-manager-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.optional-dependencies]
+llm = ["anthropic>=1"]  # only for the model-backed routing eval
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

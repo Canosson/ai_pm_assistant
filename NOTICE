@@ -1,0 +1,15 @@
+PM Agent (product-manager-assistant)
+
+All skills in skills/ are original text written for this project. While authoring, the structure
+(section layout, scope) of the following existing skills was consulted. No text was copied.
+
+- product-management plugin: write-spec, roadmap-update, metrics-review, synthesize-research,
+  competitive-brief, stakeholder-update. Apache License 2.0.
+- marketing plugin: campaign-plan. Apache License 2.0.
+- ecc 2.0.0-rc.1: product-lens, council, architecture-decision-records, market-research,
+  plan-prd, prp-prd. MIT License.
+
+Frameworks are credited by name and URL in the Source line of each skill (for example RICE from
+Intercom, OKRs from What Matters, the Opportunity Solution Tree from Product Talk).
+
+Not used: design plugin, data plugin and zizi-skills (no license found or checked).
